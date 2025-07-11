@@ -2,6 +2,9 @@
 
 Hugging Face GPT-2 API Proxy
 
+![Alt text](https://github.com/username/repo-name/blob/main/path/to/image.png?raw=true)
+
+
 This project is a simple Flask-based proxy server that forwards text generation requests to the Hugging Face Inference API for the GPT-2 model.
 
 Description
