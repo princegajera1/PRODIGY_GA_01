@@ -2,7 +2,7 @@
 
 Hugging Face GPT-2 API Proxy
 
-![Alt text](https://github.com/username/repo-name/blob/main/path/to/image.png?raw=true)
+ ![image](https://github.com/princegajera1/PRODIGY_GA_01/blob/a70f5eff61415d2379b13156f3ae4e2c9014d0a0/Screenshot%202025-07-11%20091016.png)
 
 
 
